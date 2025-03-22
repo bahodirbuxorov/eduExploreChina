@@ -1,6 +1,4 @@
-Thanks for downloading this template!
-
-Template Name: EasyFolio
-Template URL: https://bootstrapmade.com/easyfolio-bootstrap-portfolio-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+  * Template Name: EduExploreChina
+  * Version: 1.0
+  * Updated: Feb 21 2025 with Bootstrap v5.3.3
+  * Author: FloodSolutions.uz
